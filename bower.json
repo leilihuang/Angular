@@ -1,0 +1,26 @@
+{
+  "name": "xiaolei",
+  "homepage": "https://github.com/llh520xw/Angular",
+  "authors": [
+    "xiaolei"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "llh1314520xw"
+  ],
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^2.2.1",
+    "angular": "angularjs#^1.5.0",
+    "requirejs": "^2.1.22"
+  }
+}
